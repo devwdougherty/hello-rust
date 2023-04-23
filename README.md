@@ -4,7 +4,7 @@
 
 Generate a new project
 
-```cargo new hello-rust``´
+```cargo new hello-rust```
 
 Run the project
 
